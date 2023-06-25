@@ -1,12 +1,12 @@
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.21",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.3",
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 351,
-			"versionNonce": 1510742755,
+			"version": 352,
+			"versionNonce": 1764763559,
 			"isDeleted": false,
 			"id": "bpuPl2QDuK4QnN1u3PITp",
 			"fillStyle": "hachure",
@@ -15,8 +15,8 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -821.0322372254615,
-			"y": 244.4794874666394,
+			"x": -822.4867604854045,
+			"y": 243.02493646344334,
 			"strokeColor": "#000000",
 			"backgroundColor": "#12b886",
 			"width": 222,
@@ -30,7 +30,7 @@
 					"id": "V6L2e4z6"
 				}
 			],
-			"updated": 1684832267114,
+			"updated": 1687663864790,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -39,8 +39,8 @@
 		},
 		{
 			"type": "text",
-			"version": 281,
-			"versionNonce": 845585044,
+			"version": 285,
+			"versionNonce": 443255817,
 			"isDeleted": false,
 			"id": "V6L2e4z6",
 			"fillStyle": "hachure",
@@ -49,28 +49,29 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -781.7509872254615,
-			"y": 267.9794874666394,
+			"x": -763.2055104854045,
+			"y": 266.52493646344334,
 			"strokeColor": "#000000",
 			"backgroundColor": "#12b886",
-			"width": 143.4375,
+			"width": 103.4375,
 			"height": 24,
 			"seed": 458267758,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1679821292442,
+			"updated": 1687663867249,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "逻辑日志(相反)",
-			"rawText": "",
+			"text": "逻辑日志()",
+			"rawText": "逻辑日志()",
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "bpuPl2QDuK4QnN1u3PITp",
-			"originalText": "逻辑日志(相反)",
-			"lineHeight": 1.2
+			"originalText": "逻辑日志()",
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -141,7 +142,8 @@
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "事务",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -212,7 +214,8 @@
 			"verticalAlign": "middle",
 			"containerId": "gv4ngeFWWgxfjHEBw6nDh",
 			"originalText": "开始事务",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -309,7 +312,8 @@
 			"verticalAlign": "middle",
 			"containerId": "IuEu2GmxUByzQbzcm8Wwx",
 			"originalText": "undolog[innodb]",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -386,7 +390,8 @@
 			"verticalAlign": "middle",
 			"containerId": "Ozd4fAnt-jz1ZStKCT_nw",
 			"originalText": "物理日志",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -457,12 +462,13 @@
 			"verticalAlign": "middle",
 			"containerId": "-aUg3mqMRoZEOJ6LmI8yk",
 			"originalText": "事务提交",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 2993,
-			"versionNonce": 219785613,
+			"version": 2997,
+			"versionNonce": 1323554215,
 			"isDeleted": false,
 			"id": "whILQlR9G3t52SfXyLGC9",
 			"fillStyle": "hachure",
@@ -483,7 +489,7 @@
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1684832267131,
+			"updated": 1687663692834,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -587,7 +593,8 @@
 			"verticalAlign": "middle",
 			"containerId": "7GX1CpvoyjXhz9V0fcj3B",
 			"originalText": "redo log buffer",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -658,7 +665,8 @@
 			"verticalAlign": "middle",
 			"containerId": "IZgR9sn51AlMiAs2zDIrd",
 			"originalText": "更新数据",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -727,7 +735,8 @@
 			"verticalAlign": "middle",
 			"containerId": "riwOpK6yq1dFTcyA-GliN",
 			"originalText": "update 1",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -804,7 +813,8 @@
 			"verticalAlign": "middle",
 			"containerId": "-Gj8X0ooe1ymGwqVgsFhT",
 			"originalText": "逻辑日志",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -877,12 +887,13 @@
 			"verticalAlign": "middle",
 			"containerId": "ANGykR6TgA0H_-F3Kwt9-",
 			"originalText": "binlog cache",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 2104,
-			"versionNonce": 1044189549,
+			"version": 2108,
+			"versionNonce": 399786759,
 			"isDeleted": false,
 			"id": "kaAqisHj3aQxgQWsr-4uL",
 			"fillStyle": "solid",
@@ -901,7 +912,7 @@
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684832267143,
+			"updated": 1687663692861,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1001,7 +1012,8 @@
 			"verticalAlign": "middle",
 			"containerId": "bZtGrxvQLY5g9d_05LYOl",
 			"originalText": "redolog[innodb]",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -1076,7 +1088,8 @@
 			"verticalAlign": "middle",
 			"containerId": "Zv0VwVKFfn8Mq4yEGBKoQ",
 			"originalText": "binlog[server]",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -1159,12 +1172,13 @@
 			"verticalAlign": "middle",
 			"containerId": "28wyGsCxm4miHdHRv0YVE",
 			"originalText": "(事务)一次性写入\n文件中",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 41
 		},
 		{
 			"type": "arrow",
-			"version": 1153,
-			"versionNonce": 1299209741,
+			"version": 1157,
+			"versionNonce": 439226823,
 			"isDeleted": false,
 			"id": "Frc7e5AhmgkcocmZSn7VV",
 			"fillStyle": "hachure",
@@ -1190,7 +1204,7 @@
 					"id": "BC8k4KJ9"
 				}
 			],
-			"updated": 1684832267161,
+			"updated": 1687663692893,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -1253,7 +1267,8 @@
 			"verticalAlign": "middle",
 			"containerId": "Frc7e5AhmgkcocmZSn7VV",
 			"originalText": "(1)后台线程每秒写入\n",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
@@ -1332,7 +1347,8 @@
 			"verticalAlign": "middle",
 			"containerId": "SvmBy8yEF8iDoIHDGqhNN",
 			"originalText": "redo log buffer",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -1415,12 +1431,13 @@
 			"verticalAlign": "middle",
 			"containerId": "QiUzKel530xfYDSynKFo7",
 			"originalText": "redolog.file",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 1593,
-			"versionNonce": 1188435267,
+			"version": 1595,
+			"versionNonce": 1959399977,
 			"isDeleted": false,
 			"id": "unt2cdes7hKO7PfIRr_O-",
 			"fillStyle": "hachure",
@@ -1446,7 +1463,7 @@
 					"id": "mizNvd6K"
 				}
 			],
-			"updated": 1684832267162,
+			"updated": 1687663692895,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -1513,7 +1530,8 @@
 			"verticalAlign": "middle",
 			"containerId": "unt2cdes7hKO7PfIRr_O-",
 			"originalText": "(3)提交后写入",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -1590,12 +1608,13 @@
 			"verticalAlign": "middle",
 			"containerId": "RelivzEgbO3WkdOw9T8nj",
 			"originalText": "更新Buffer Pool",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 1102,
-			"versionNonce": 1720218851,
+			"version": 1104,
+			"versionNonce": 1945625865,
 			"isDeleted": false,
 			"id": "GGudOHSE7_RCQHcMA08d0",
 			"fillStyle": "hachure",
@@ -1604,17 +1623,17 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -680.8810135108666,
-			"y": 514.6193432995418,
+			"x": -680.8226640209438,
+			"y": 514.8187552511516,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "#12b886",
-			"width": 226.6862286724235,
-			"height": 152.75599760256182,
+			"width": 226.62787918250064,
+			"height": 152.556585650952,
 			"seed": 1594652142,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684832267166,
+			"updated": 1687663692901,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1636,19 +1655,19 @@
 					0
 				],
 				[
-					2.188725017241552,
-					152.75599760256182
+					2.1303755273186766,
+					152.556585650952
 				],
 				[
-					226.6862286724235,
-					148.7214497292207
+					226.62787918250064,
+					148.52203777761088
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 877,
-			"versionNonce": 202236035,
+			"version": 881,
+			"versionNonce": 933780457,
 			"isDeleted": false,
 			"id": "e2il7cV7DddmASuh6emrP",
 			"fillStyle": "hachure",
@@ -1657,17 +1676,17 @@
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -594.8038269257194,
-			"y": 490.5370369744415,
+			"x": -594.5262908258914,
+			"y": 490.5794506873539,
 			"strokeColor": "#c92a2a",
 			"backgroundColor": "#12b886",
-			"width": 142.31839280823664,
-			"height": 0.2343750517643457,
+			"width": 142.0524756366304,
+			"height": 0.25113503199855813,
 			"seed": 2129640754,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684832267167,
+			"updated": 1687663692902,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1689,8 +1708,8 @@
 					0
 				],
 				[
-					142.31839280823664,
-					-0.2343750517643457
+					142.0524756366304,
+					-0.25113503199855813
 				]
 			]
 		},
@@ -1767,12 +1786,13 @@
 			"verticalAlign": "middle",
 			"containerId": "F7nEtT8BCs95rQ59-KOEi",
 			"originalText": "page cache",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 683,
-			"versionNonce": 1404820419,
+			"version": 687,
+			"versionNonce": 1608971977,
 			"isDeleted": false,
 			"id": "TdsRxiDF4gJXFWcZGqkJw",
 			"fillStyle": "hachure",
@@ -1782,11 +1802,11 @@
 			"opacity": 100,
 			"angle": 0,
 			"x": -408.72324996270345,
-			"y": 872.5679323276058,
+			"y": 872.5676926954991,
 			"strokeColor": "#000000",
 			"backgroundColor": "#12b886",
-			"width": 826.6666666666664,
-			"height": 55.671400971449316,
+			"width": 826.4999796549475,
+			"height": 55.66482930232178,
 			"seed": 514909502,
 			"groupIds": [],
 			"roundness": {
@@ -1798,7 +1818,7 @@
 					"id": "HrQe64jd"
 				}
 			],
-			"updated": 1684832267169,
+			"updated": 1687663692906,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -1823,8 +1843,8 @@
 					0
 				],
 				[
-					826.6666666666664,
-					-55.671400971449316
+					826.4999796549475,
+					-55.66482930232178
 				]
 			]
 		},
@@ -1861,7 +1881,8 @@
 			"verticalAlign": "middle",
 			"containerId": "TdsRxiDF4gJXFWcZGqkJw",
 			"originalText": "(2)提交后写入page cache",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -1942,12 +1963,13 @@
 			"verticalAlign": "middle",
 			"containerId": "UobEtaVXJfNqIiRaY4oB5",
 			"originalText": "binlog cache",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 1043,
-			"versionNonce": 643178157,
+			"version": 1047,
+			"versionNonce": 1218909543,
 			"isDeleted": false,
 			"id": "3mCchhTRkwJfdSZktrCqp",
 			"fillStyle": "hachure",
@@ -1973,7 +1995,7 @@
 					"id": "m0MjUczh"
 				}
 			],
-			"updated": 1684832267173,
+			"updated": 1687663692912,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -2036,12 +2058,13 @@
 			"verticalAlign": "middle",
 			"containerId": "3mCchhTRkwJfdSZktrCqp",
 			"originalText": "(1) 只write到page cache,由系统决定时机fsync",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 290,
-			"versionNonce": 850899021,
+			"version": 291,
+			"versionNonce": 792688199,
 			"isDeleted": false,
 			"id": "ysDgvnFLhZMWjVV1yCfd_",
 			"fillStyle": "hachure",
@@ -2067,7 +2090,7 @@
 					"id": "Jm6cJcDe"
 				}
 			],
-			"updated": 1684832267172,
+			"updated": 1687663692910,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -2126,12 +2149,13 @@
 			"verticalAlign": "middle",
 			"containerId": "ysDgvnFLhZMWjVV1yCfd_",
 			"originalText": "(2)直接fsync持久化",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 242,
-			"versionNonce": 1289208077,
+			"version": 246,
+			"versionNonce": 235786375,
 			"isDeleted": false,
 			"id": "ubNNfnu4uI-a_prcmJyfu",
 			"fillStyle": "hachure",
@@ -2157,7 +2181,7 @@
 					"id": "U2BOk1hg"
 				}
 			],
-			"updated": 1684832267175,
+			"updated": 1687663692914,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -2220,12 +2244,13 @@
 			"verticalAlign": "middle",
 			"containerId": "ubNNfnu4uI-a_prcmJyfu",
 			"originalText": "(3)会write到page cache，但是积累N个事务后fsync",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "arrow",
-			"version": 276,
-			"versionNonce": 1228084333,
+			"version": 278,
+			"versionNonce": 573980903,
 			"isDeleted": false,
 			"id": "_Tks8cI72zZKh3RPACMOP",
 			"fillStyle": "hachure",
@@ -2251,7 +2276,7 @@
 					"id": "Be8hNS8M"
 				}
 			],
-			"updated": 1684832267164,
+			"updated": 1687663692897,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -2318,7 +2343,8 @@
 			"verticalAlign": "middle",
 			"containerId": "_Tks8cI72zZKh3RPACMOP",
 			"originalText": "设置commit阶段",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		},
 		{
 			"type": "rectangle",
@@ -2387,7 +2413,8 @@
 			"verticalAlign": "middle",
 			"containerId": "qmE9x2W-8JAEbOVp4mf5V",
 			"originalText": "2 这里挂掉，虽然redo \nlog处于prepare阶段，但通过\n事务id能找到相应的binlog日\n志,所以mysql认为binlog是完\n整的",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 115
 		},
 		{
 			"type": "rectangle",
@@ -2456,7 +2483,8 @@
 			"verticalAlign": "middle",
 			"containerId": "oLLBoECVgy-YkfzjLToF0",
 			"originalText": "1 这里挂掉， redo \nlog处于prepare阶段，且通过\n事务id无法找到相应的binlog\n日志,所以mysql认为binlog是\n不完整的，会回滚事务",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 115
 		},
 		{
 			"type": "text",
@@ -2491,7 +2519,8 @@
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "[prepare阶段]",
-			"lineHeight": 1.2
+			"lineHeight": 1.2,
+			"baseline": 19
 		}
 	],
 	"appState": {
@@ -2509,10 +2538,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 923.9517900411131,
-		"scrollY": -104.64560062074872,
+		"scrollX": 951.3154264047494,
+		"scrollY": 24.111997331429166,
 		"zoom": {
-			"value": 0.75
+			"value": 0.55
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
